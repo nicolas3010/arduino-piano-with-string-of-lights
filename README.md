@@ -1,4 +1,4 @@
-# piano-with-string-of-lights
+# piano-with-string-of-lights / arduino
 
 
 /*******************************************************************************
