@@ -1,11 +1,6 @@
 # piano-with-string-of-lights / arduino
 
 
-/*******************************************************************************
-* Kit Iniciante para Arduino v8 - Projeto Piano 2
-* Reproduzir notas músicais em um buzzer de acordo com os botões pressionados.
-*******************************************************************************/
-
 // Variaveis para armazenar os pinos de cada componente conectado
 const int pino_botao1 = 7;
 const int pino_botao2 = 8;
